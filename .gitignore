@@ -1,0 +1,21 @@
+# ===== IDE =====
+.idea/
+.vscode/
+
+# ===== Backend =====
+BACKEND/target/
+BACKEND/logs/
+BACKEND/static/Uploads/
+
+# ===== Frontend =====
+FRONTEND/node_modules/
+FRONTEND/dist/
+FRONTEND/.vite/
+
+# ===== Env =====
+.env
+.env.local
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
